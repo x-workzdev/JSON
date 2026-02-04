@@ -19,10 +19,10 @@
 			"extranalLink": "https://www.eclipse.org/downloads/"
 		},
 		{
-			"name": "IntelliJ IDEA ",
-			"description": "The IntelliJ IDEA Community Edition  30 April 2024 Tool for Java developers including creating Java EE and Web applications.",
-			"directLink": "https://drive.usercontent.google.com/download?id=1Jsw82hBtFZoofJYbreXgOZvDGMgxIJow&export=download",
-			"extranalLink": "https://www.jetbrains.com/idea/download/other.html"
+		"name": "IntelliJ IDEA",
+		"description": "The IntelliJ IDEA Community Edition 2025.1 released on 15 January 2025 for Java and Web application development.",
+		"directLink": "https://drive.usercontent.google.com/download?id=NEW_FILE_ID&export=download",
+		"externalLink": "https://www.jetbrains.com/idea/download/"
 		},
 		{
 			"name": "JDK 8",
